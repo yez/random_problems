@@ -1,3 +1,3 @@
-##This repo is for random programming problems.
+This repo is for random programming problems.
 
-##I solve all the problems in Ruby and test using rspec.
+I solve all the problems in Ruby and test using rspec.
