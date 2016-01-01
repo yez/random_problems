@@ -15,6 +15,7 @@ If the number is divisible by `5` print `buzz` instead.
 If the number is divisible by both 3 and 5, print `fizzbuzz` instead of the number.
 
 [Solution](fizzbuzz/fizz_buzz.rb)
+
 [Test](fizzbuzz/fizz_buzz_spec.rb)
 
 ## LinkedList
@@ -22,6 +23,7 @@ If the number is divisible by both 3 and 5, print `fizzbuzz` instead of the numb
 Implement a one directional linked list. A `Node` class and `LinkedList` should both be created.
 
 [Solution](linked_list/linked_list.rb)
+
 [Test](linked_list/linked_list_spec.rb)
 
 ## Reverse Polish Notation (RPN) Evaluator
@@ -33,6 +35,7 @@ Example: `1 + 2` translated to RPN is `1 2 +`
 Create a calculator that can accept a string in RPN, and compute the result.
 
 [Solution](rpn_eval/rpn.rb)
+
 [Test](rpn_eval/rpn_methods_spec.rb)
 
 ## Array Sorting
@@ -40,6 +43,7 @@ Create a calculator that can accept a string in RPN, and compute the result.
 Given two ordered arrays, create a method to combine them into a single ordered array. The use of `sort`, `+` and similar array operators is prohibited.
 
 [Solution](sorted_arrays/array_sort.rb)
+
 [Test](sorted_arrays/array_sort_spec.rb)
 
 ## Spell Checker
@@ -47,6 +51,7 @@ Given two ordered arrays, create a method to combine them into a single ordered 
 Given a misspelled word, compute and display a list of suggestions.
 
 [Solution](spellcheck/spelling_suggestion.rb)
+
 [Test](spellcheck/spelling_tester.rb)
 
 ## Grid
@@ -54,4 +59,5 @@ Given a misspelled word, compute and display a list of suggestions.
 Within an N x N grid, visit every node exactly one time.
 
 [Solution](spiral/spiral.rb)
+
 [Test](spiral/spiral_spec.rb)
